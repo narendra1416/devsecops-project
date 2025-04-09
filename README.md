@@ -11,7 +11,7 @@
 - 📜 Game history with timestamps
 - 🏆 Highlights winning combinations
 - 🔄 Reset game and statistics
-- 📱 Responsive design for all devices
+- 📱 Responsive design for all devices.
 
 ## Technologies Used
 
